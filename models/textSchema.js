@@ -18,7 +18,7 @@ const textSchema = new Schema({
     type: String,
     required: true  
   },
-  textGIF: {
+  GIF: {
     type: String,
     required: true  
   },
